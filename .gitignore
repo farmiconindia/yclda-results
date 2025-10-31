@@ -1,4 +1,7 @@
 logs/
 temp_yamls/
-sequential_training/
+sequential_training/*
+!sequential_training/
+!sequential_training/M1_*
+!sequential_training/M2_*
 consolidated_benchmark_summary.csv
